@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Tic Tac Toe
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A very simple tic-tac-toe game built using Vue, Vite, and TailwindCSS. This project was made for educational purposes.
 
-## Recommended IDE Setup
+# Tutorial
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+This project was built following Tyler Pott's tutorial on [youtube](https://www.youtube.com/watch?v=sjYxRlwHvsM).
