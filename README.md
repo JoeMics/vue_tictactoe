@@ -5,3 +5,7 @@ A very simple tic-tac-toe game built using Vue, Vite, and TailwindCSS. This proj
 # Tutorial
 
 This project was built following Tyler Pott's tutorial on [youtube](https://www.youtube.com/watch?v=sjYxRlwHvsM).
+
+# Preview
+
+![tic tac toe gif](./docs/tictactoe.gif)
